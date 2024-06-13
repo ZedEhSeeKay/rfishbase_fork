@@ -12,6 +12,8 @@ status](https://www.r-pkg.org/badges/version/rfishbase)](https://cran.r-project.
 [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/rfishbase)](https://github.com/r-hub/cranlogs.app)
 <!-- badges: end -->
 
+This is a fork.
+
 Welcome to `rfishbase 4`. This is the fourth rewrite of the original
 `rfishbase` package described in [Boettiger et
 al. (2012)](https://doi.org/10.1111/j.1095-8649.2012.03464.x).
